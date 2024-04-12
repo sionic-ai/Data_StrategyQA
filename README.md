@@ -4,7 +4,7 @@ https://blog.sionic.ai/Super_NaturalInstructions
   -한국어 번역 데이터 세트   
     
 | 번호 | 유형 | 데이터 이름 | 링크 | 간략한 데이터 설명 | 
-| --- | --- | --- | --- | --- | 
+| --- | --- | --- | --- | ------ | 
 | 1 | 질의응답 | task169_strategyQA | https://github.com/sionic-ai/Data_KoSuperNI/tree/main/Data_169StrategyQA | 특정 질문이 주어졌을 때 그 질문에 답하기 위해 알아야 할 사실을 기술<br>위키피디아 기반 질의 응답 데이터 |
 | 2 | 질의응답 | task191_HotpotQA | https://github.com/sionic-ai/Data_KoSuperNI/tree/main/Data_192Ko_HotpotQA | 이전의 데이터들이 질문 하나 답변 하나로 이루어져 있었것 것에 대해 사람의 대화는 하나의 짧은 질문과 대답으로 이루어지지 않는다는 문제 의식에서 구축된 데이터<br> 시스템이 답변에 도달하기 위해 둘 이상의 문서에서 가져온 정보를 가지고 추론해야 하는 멀티홉 리소싱을 수행하는 질의응답 시스템 성능 테스트를 위한 데이터 세트<br>두 개의 엔티티(비교) 등 다양한 추론 유형에서 질문에 잘 대답하는지를 확인 | 
 | 3 | 질의응답 | task192_HotpotQA | https://github.com/sionic-ai/Data_KoSuperNI/tree/main/Data_192Ko_HotpotQA | task 191과 크게 차이가 나는 것은 아님<br>답변에 도달하기 위해 가져온 둘 이상의 문서간의 관계에 따라 멀티홉의 세부 내용 구분<br>위키피디아 하이퍼링크 그래프를 통해 후보 단락 쌍 생성 |  |
